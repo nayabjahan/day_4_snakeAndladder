@@ -5,5 +5,6 @@ public class SnakeAndLadder {
         System.out.println("player position:"+position);
         int player1 = (int)((Math.random()*10)%1);
         System.out.println(player1);
+
     }
 }
